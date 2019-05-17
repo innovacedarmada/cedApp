@@ -1,0 +1,7 @@
+{
+  "name": "cedBeta1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
